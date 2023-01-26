@@ -11,7 +11,7 @@
     }
     class User {
         delete() {
-            throw new Error("Method not implemented.");
+            throw new Error('Method not implemented.');
         }
         pay(paymentId) {
             ////
